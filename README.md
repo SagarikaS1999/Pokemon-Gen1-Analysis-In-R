@@ -1,4 +1,4 @@
-# Pokémon Gen 1 Visual Analysis in 
+# Pokémon Gen 1 Visual Analysis in R
 
 This project explores Generation 1 Pokémon through the lens of data science and visual storytelling. By leveraging the Kaggle Pokémon dataset and R-based visualization libraries, the analysis delves into type distributions, base stats, evolutionary progressions, and legendary status comparisons — culminating in an academic poster titled **"Exploring the World of Pokémon: Insights from Gen 1"**.
 
