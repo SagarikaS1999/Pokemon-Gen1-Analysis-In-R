@@ -1,10 +1,10 @@
-# 🧬 Pokémon Gen 1 Visual Analysis in 
+# Pokémon Gen 1 Visual Analysis in 
 
 This project explores Generation 1 Pokémon through the lens of data science and visual storytelling. By leveraging the Kaggle Pokémon dataset and R-based visualization libraries, the analysis delves into type distributions, base stats, evolutionary progressions, and legendary status comparisons — culminating in an academic poster titled **"Exploring the World of Pokémon: Insights from Gen 1"**.
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 This project focuses on:
 - Understanding **type distributions** among Gen 1 Pokémon
@@ -14,8 +14,13 @@ This project focuses on:
 - Visualizing **abilities** using circular packing plots
 
 ---
+## Data Storytelling
 
-## 📊 Dataset
+<img width="1442" height="961" alt="image" src="https://github.com/user-attachments/assets/345eacf3-a86d-472a-8ee7-a75dc7488a6a" />
+
+---
+
+## Dataset
 
 - **Source**: [Kaggle Pokémon Stats Dataset](https://www.kaggle.com/datasets/guavocado/pokemon-stats-1025-pokemons)
 - **Filtered for**: Generation 1 Pokémon
@@ -27,7 +32,7 @@ This project focuses on:
 
 ---
 
-## 📌 Key Visuals in This Project
+##  Key Visuals in This Project
 
 | Visualization | Description |
 |---------------|-------------|
@@ -39,7 +44,7 @@ This project focuses on:
   
 ---
 
-## 📁 Files
+## Files
 
 - `Shinde_Pokemon_Analysis.R` – Main R script with all plots and logic
 - `pokemon_data.csv` – Cleaned dataset used for Gen 1 filtering
@@ -47,22 +52,13 @@ This project focuses on:
 
 ---
 
-## 🧰 Tools & Packages
+## Tools & Packages
 
 Built using R and the following packages:
 - `ggplot2` – Data Visualization
 - `dplyr`, `tidyr` – Data manipulation
 - `packcircles` – Circular packing for ability plots
 - `readr` – Data import
-
----
-
-## 🎓 About
-
-- **Author**: Sagarika Shinde  
-- **Course**: Information Visualization  
-- **University**: Syracuse University  
-- **Semester**: Spring 2025
 
 ---
 
